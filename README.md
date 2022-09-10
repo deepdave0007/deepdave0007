@@ -3,6 +3,8 @@
 - 💻 Experienced with web/app development
 - 👀 Knack for great product and UX design
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepdave0007&theme=vue-dark&show_icons=true)
+
 
 <!---
 deepdave0007/deepdave0007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
